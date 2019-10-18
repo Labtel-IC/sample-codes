@@ -30,7 +30,7 @@ function [ FileName ] = Set_MZ_Input_Data( FileIdex,L,U0,U_pi1,U_pi2,...
 %c  alfa_ins	: Perda por insercao [dB]
 %c  phi_0 		: Constante de fase entre os dois caminhos
 %c  alfa0		: Perda condutiva [dB/cm.GHz^0.5]
-%c  Local       : VariavÈl onde os arquivos ser„o salvos
+%c  Local       : Variav√©l onde os arquivos ser√£o salvos
 %c
 %c  Output:
 %c  FileName    : Nome do arquivo gerado
