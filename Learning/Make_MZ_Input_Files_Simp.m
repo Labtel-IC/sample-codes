@@ -1,5 +1,5 @@
 %c
-%c                                                       ..'Ž`'..'Ž`..'Ž`..                                                   
+%c                                                       ..'Å½`'..'Å½`..'Å½`..                                                   
 %c       File: Make_MZ_Input_Files_Simp
 %c(Creating the input file necessary for the MZM)
 %c
