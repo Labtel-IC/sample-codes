@@ -1,5 +1,5 @@
 %c
-%c                                                       ..'Ž`'..'Ž`..'Ž`..                                                   
+%c                                                       ..'Å½`'..'Å½`..'Å½`..                                                   
 %c       File: OFC_RIM (Optical Frequency Comb Rim)
 %c
 %c     This frist code aim to implement the loop (or single interaction) to
