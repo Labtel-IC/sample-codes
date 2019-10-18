@@ -1,5 +1,5 @@
 %c
-%c                                                       ..'Ž`'..'Ž`..'Ž`..                                                   
+%c                                                       ..'Å½`'..'Å½`..'Å½`..                                                   
 %c
 %c  	Arquivo de entrada usado pela funcao Mach_Zehnder_Modulator. Contem
 %c informacoes sobre as caracteristicas fisicas do  modulador Mach-Zehnder.
